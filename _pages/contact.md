@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /soniyapal/contact/
 title: "Contact"
 author_profile: true
 ---
