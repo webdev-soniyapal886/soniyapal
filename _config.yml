@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic.jpeg"
+  avatar           : "my-pic.png"
   name             : "Soniya Pal"
   pronouns         : # example: "she/her"  
   bio              : "Data Analyst skilled in SQL, Python, Excel, and Data Validation. Passionate about data analytics, data science, and turning complex data into actionable business insights."
