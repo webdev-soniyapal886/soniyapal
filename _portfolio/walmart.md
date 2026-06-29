@@ -1,6 +1,6 @@
 ---
 title: "Walmart Store Sales Analysis"
-excerpt: "Exploratory Data Analysis (EDA) on Walmart Store Sales dataset using Python, Pandas, Matplotlib and Seaborn.<br/><img src='/images/walmart/img-1.png'>"
+excerpt: "Exploratory Data Analysis (EDA) on Walmart Store Sales dataset using Python, Pandas, Matplotlib and Seaborn.<br/><img src='{{ site.baseurl }}/images/walmart/img-1.png'>"
 collection: portfolio
 ---
 
@@ -29,7 +29,7 @@ This project analyzes Walmart Store Sales data using Python to identify sales tr
 
 ### Total Weekly Sales by Store
 
-![Total Weekly Sales](/images/walmart/img-1.png)
+![Total Weekly Sales]({{ site.baseurl }}/images/walmart/img-1.png)
 
 Store 20 recorded the highest total sales among all Walmart stores, indicating consistently strong business performance.
 
@@ -37,7 +37,7 @@ Store 20 recorded the highest total sales among all Walmart stores, indicating c
 
 ### Sales Variation (Standard Deviation)
 
-![Sales Variation](/images/walmart/img-2.png)
+![Sales Variation]({{ site.baseurl }}/images/walmart/img-2.png)
 
 Store 14 showed the highest sales variation, suggesting significant fluctuations in weekly sales compared to other stores.
 
@@ -45,7 +45,7 @@ Store 14 showed the highest sales variation, suggesting significant fluctuations
 
 ### Q3 2012 Quarterly Growth Analysis
 
-![Quarterly Growth](/images/walmart/img-3.png)
+![Quarterly Growth]({{ site.baseurl }}/images/walmart/img-3.png)
 
 Quarterly growth rates were analyzed across all stores to identify performance trends during Q3 2012. A few stores achieved positive growth while several experienced declining sales.
 
@@ -53,7 +53,7 @@ Quarterly growth rates were analyzed across all stores to identify performance t
 
 ### Holiday Sales Impact
 
-![Holiday Analysis](/images/walmart/img-4.png)
+![Holiday Analysis]({{ site.baseurl }}/images/walmart/img-4.png)
 
 Compared average weekly sales during holiday weeks against non-holiday periods to understand the influence of major holidays on revenue.
 
@@ -61,6 +61,6 @@ Compared average weekly sales during holiday weeks against non-holiday periods t
 
 ### Semester-wise Sales Analysis
 
-![Semester Analysis](/images/walmart/img-5.png)
+![Semester Analysis]({{ site.baseurl }}/images/walmart/img-5.png)
 
 Compared first-half (H1) and second-half (H2) sales across multiple years, revealing seasonal trends and stronger sales performance during the latter half of the year.
