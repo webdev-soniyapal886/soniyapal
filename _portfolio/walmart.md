@@ -4,8 +4,6 @@ excerpt: "Exploratory Data Analysis (EDA) on Walmart Store Sales dataset using P
 collection: portfolio
 ---
 
-# Walmart Store Sales Analysis
-
 This project analyzes Walmart Store Sales data using Python to identify sales trends, store performance, seasonal patterns, holiday impact, and quarterly business growth through Exploratory Data Analysis (EDA).
 
 ## Tools Used
