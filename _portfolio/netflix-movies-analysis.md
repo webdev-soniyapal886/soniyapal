@@ -1,6 +1,6 @@
 ---
 title: "Netflix Movies & TV Shows Analysis"
-excerpt: "Exploratory Data Analysis (EDA) on the Netflix dataset using Python, Pandas, Matplotlib and Seaborn.<br/><img src='/images/netflix/img-1.png'>"
+excerpt: "Exploratory Data Analysis (EDA) on the Netflix dataset using Python, Pandas, Matplotlib and Seaborn.<br><br><img src='{{ site.baseurl }}/images/netflix/img-1.png' width='420'>"
 collection: portfolio
 ---
 
@@ -28,20 +28,20 @@ This project analyzes the Netflix Movies and TV Shows dataset using Python to di
 
 ### Dataset Overview
 
-![Dataset Overview](/images/netflix/img-1.png)
+![Dataset Overview]({{ site.baseurl }}/images/netflix/img-1.png)
 
 ### Data Cleaning
 
-![Data Cleaning](/images/netflix/img-2.png)
+![Data Cleaning]({{ site.baseurl }}/images/netflix/img-2.png)
 
 ### Movies vs TV Shows Distribution
 
-![Movies vs TV Shows](/images/netflix/img-3.png)
+![Movies vs TV Shows]({{ site.baseurl }}/images/netflix/img-3.png)
 
 ### Data Visualization
 
-![Visualization](/images/netflix/img-4.png)
+![Visualization]({{ site.baseurl }}/images/netflix/img-4.png)
 
 ### Final Insights
 
-![Final Insights](/images/netflix/img-5.png)
+![Final Insights]({{ site.baseurl }}/images/netflix/img-5.png)
